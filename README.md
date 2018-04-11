@@ -1,7 +1,10 @@
 # HelloFirebase
 Example code for Firebase basic Auth with Email&Password.
 
-#Important !!
+# Important !!
 Before use this Code.
 Make sure you have configure the Firebase connection to your own Firebase Project..!!
+
+# Replace 
+google-services.json under app/ directory with your own. !! 
 
